@@ -55,7 +55,8 @@ Developed by: RegisterNumber:24900366(NIKHIL H)
 ![WhatsApp Image 2024-12-01 at 14 25 43_252ebeb9](https://github.com/user-attachments/assets/73e1b98b-778a-4114-a1c0-0c5174747bc6)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-![Uploading WhatsApp Image 2024-12-01 at 14.25.44_5aeec015.jpg…]()
+![WhatsApp Image 2024-12-01 at 14 25 44_5aeec015](https://github.com/user-attachments/assets/895e055f-1a2f-4e83-abbc-2d74bd09af2d)
+
 
 **RESULTS**
 
