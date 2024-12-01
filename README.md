@@ -1,5 +1,8 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+---
+Name:Nikhil.H      
+Reg_No:24900366
 
+### ENCODER 8TO3 DATAFLOW Modelling
 **AIM:**
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
